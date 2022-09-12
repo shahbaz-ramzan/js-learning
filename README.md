@@ -1,0 +1,2 @@
+# js-learning
+basic javascript 
